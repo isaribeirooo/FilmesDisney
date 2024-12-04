@@ -1,0 +1,39 @@
+nav{
+    font-style: italic;
+    font-weight: bold;
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    color: black;
+}
+
+
+h5{
+    font-style: oblique;
+}
+
+
+p{
+    font-style: oblique;
+    color: black;
+}
+
+ul li{
+    color: black;
+}
+
+main{
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+div{
+    margin: 10px;
+    gap: 10px;
+}
+
+section{
+    text-align: justify;
+}
+
